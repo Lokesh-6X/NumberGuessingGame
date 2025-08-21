@@ -1,0 +1,14 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
